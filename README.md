@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://i.imgur.com/8MupZHY.png" width="70%" />
+  <img src="https://i.imgur.com/0A7kKXy.jpeg" alt="Frieren sleeping from Frieren: Beyond Journey's End">
 </p>
 
 </p>
