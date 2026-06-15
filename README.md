@@ -3,7 +3,10 @@
   <img src="https://i.imgur.com/8MupZHY.png" width="70%" />
 </p>
 
-<h2 align="center"><img src="https://imgur.com/a/G8cINc9</h2>
+<h2 align="center">
+  <img src="https://i.imgur.com/jFwz2HI.gif">
+</h2>
+
 <p align="center">AI student in Japan • Python enjoyer • paiza 1500+ • Loves building AI apps</p>
 
 ---
