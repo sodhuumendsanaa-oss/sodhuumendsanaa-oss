@@ -19,7 +19,8 @@
 
 ## ✨ About Me  
 - 🎓 Studying **AI systems** in Japan  
-- 🐍 Writing Python every day (algorithms, OOP, CLI tools, automation)  
+- 🐍 Writing Python every day (algorithms, OOP, CLI tools, automation)
+- 🎓I’m actively pursuing multiple industry certifications to strengthen my cloud, AI, and security foundation
 - 🤖 Interested in **AI/ML**, embeddings, rPPG, and security systems  
 - ☁️ Learning **AWS** (CLF → SAA → DEA)  
 - 💻 Built **4 AI full‑stack web apps**  
