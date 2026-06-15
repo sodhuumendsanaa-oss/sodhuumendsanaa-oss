@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/8MupZHY.png" width="70%" />
 </p>
 
-<h2 align="center">🌸 Hey, I'm Sodhuu 🌸</h2>
+<h2 align="center">🌸 Hey, I'm Mendsanaa 🌸</h2>
 <p align="center">AI student in Japan • Python enjoyer • paiza 1500+ • Loves building AI apps</p>
 
 ---
@@ -21,13 +21,11 @@
 
 ## 🛠 Tech Stack  
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" width="120" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" width="120" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" width="120" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" width="120"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" width="120"/>
 </p>
 
 ---
