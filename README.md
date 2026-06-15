@@ -3,6 +3,8 @@
   <img src="https://i.imgur.com/8MupZHY.png" width="70%" />
 </p>
 
+</p>
+
 <h2 align="center">
   <img src="https://i.imgur.com/jFwz2HI.gif">
 </h2>
