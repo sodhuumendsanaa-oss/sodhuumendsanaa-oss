@@ -1,16 +1,71 @@
-## Hi there 👋
+<!-- Header -->
+<p align="center">
+  <img src="https://i.imgur.com/8MupZHY.png" width="70%" />
+</p>
 
+<h2 align="center">🌸 Hey, I'm Sodhuu 🌸</h2>
+<p align="center">AI student in Japan • Python enjoyer • paiza 1500+ • Loves building AI apps</p>
 
-**sodhuumendsanaa-oss/sodhuumendsanaa-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## ✨ About Me  
+- 🎓 Studying **AI systems** in Japan  
+- 🐍 Writing Python every day (algorithms, OOP, CLI tools, automation)  
+- 🤖 Interested in **AI/ML**, embeddings, rPPG, and security systems  
+- ☁️ Learning **AWS** (CLF → SAA → DEA)  
+- 💻 Built **4 AI full‑stack web apps**  
+- 🎮 Anime, motorsports, and hackathons  
+- 🌏 Languages: Japanese / English / Mongolian / Russian  
 
-- 🔭 I’m currently working on devops
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+## 🌸 Featured Projects  
+- **AI Security System** – Face recognition + theft detection  
+- **Emotion-from-Music AI** – Piano melody emotion classifier  
+- **Library CLI System** – Python OOP + SQLite  
+- **Cinema Ticket System** – Terminal-based app  
+- **Membership Management System** – CLI + database  
+
+---
+
+## 📚 Currently Learning  
+- AWS Cloud (CLF → SAA → DEA)  
+- Advanced Python (regex, unittest, itertools)  
+- SQL & database design  
+- AI systems & embeddings  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+---
+
+## 🌸 Fun Facts  
+- I build AI apps for fun  
+- I enjoy hackathons and rapid prototyping  
+- I mix 4 languages daily  
+- I love motorsports and fast-paced problem solving  
+- Anime profile picture enjoyer  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff69b4" />
+</p>
