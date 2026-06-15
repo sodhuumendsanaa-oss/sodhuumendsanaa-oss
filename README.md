@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://i.imgur.com/8yqYk7M.png" width="100%" />
+  <img src="[https://i.imgur.com/8yqYk7M.png](https://hobiverse.com.vn/cdn/shop/articles/frieren_thumbnail.jpg?v=1721384726)" width="100%" />
 </p>
 
 
