@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/8MupZHY.png" width="70%" />
 </p>
 
-<h2 align="center">🌸 Hey, I'm Mendsanaa 🌸</h2>
+<h2 align="center"><img src="https://imgur.com/a/G8cINc9</h2>
 <p align="center">AI student in Japan • Python enjoyer • paiza 1500+ • Loves building AI apps</p>
 
 ---
@@ -60,7 +60,12 @@
 - I enjoy hackathons and rapid prototyping  
 - I mix 4 languages daily  
 - I love motorsports and fast-paced problem solving  
-- Anime profile picture enjoyer  
+- Anime profile picture enjoyer
+- Plays piano in my leisure time
+- PLays Ping Pong(Table tennis)
+- Plays BasketBall
+- PLays Online games
+- Body workout
 
 ---
 
